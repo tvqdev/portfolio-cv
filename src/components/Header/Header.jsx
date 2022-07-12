@@ -1,7 +1,7 @@
 import React from 'react';
 import CTA from './CTA';
 import './Header.css'
-import TQ from '../../assets/img/text.svg'
+// import TQ from '../../assets/img/text.svg'
 import Typical from 'react-typical'
 
 // import ME from '../../assets/img/chill.png'
