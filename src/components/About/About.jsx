@@ -1,6 +1,6 @@
 import React from 'react';
 import './About.css'
-import ME from '../../assets/img/me-about.jpg'
+import ME from '../../assets/img/chill.png'
 import { FaAward } from 'react-icons/fa'
 const About = () => {
      return (
@@ -18,22 +18,16 @@ const About = () => {
                               <article className='about_card'>
                                    <FaAward className='about_icon' />
                                    <h5>Experience</h5>
-                                   <small>3+ Years Working</small>
-                              </article>
-
-                              <article className='about_card'>
-                                   <FaAward className='about_icon' />
-                                   <h5>Clients</h5>
-                                   <small>200 Wordwide</small>
+                                   <small>6+ Month Working</small>
                               </article>
 
                               <article className='about_card'>
                                    <FaAward className='about_icon' />
                                    <h5>Project</h5>
-                                   <small>10+ Completed</small>
+                                   <small>5+ Completed</small>
                               </article>
                          </div>
-                         <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Optio saepe neque odio nisi sed quia magnam nihil nobis vel reprehenderit, necessitatibus possimus veritatis exercitationem consequatur earum dolor fuga aut blanditiis.</p>
+                         <p>Hi! My name is Tran Van Quang. I am a Web Developer. I am passionate about learning new technologies and always keep concentrated on improving myself skills. Being patient and responsible for working help me implement completely assinged tasks.</p>
                          <a href="#contact" className='btn btn-primary'>Let's Talk</a>
                     </div>
                </div>

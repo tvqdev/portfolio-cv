@@ -14,117 +14,56 @@ const Experience = () => {
                               <article className='experience_details'>
                                    <BsFillPatchCheckFill className="experience_details-icon" />
                                    <div>
-                                        <h4>Xamp</h4>
+                                        <h4>HTML</h4>
                                         <small className='text_light'>Experience</small>
                                    </div>
                               </article>
                               <article className='experience_details'>
                                    <BsFillPatchCheckFill className="experience_details-icon" />
                                    <div>
-                                        <h4>Xamp</h4>
+                                        <h4>CSS</h4>
                                         <small className='text_light'>Experience</small>
                                    </div>
                               </article>
                               <article className='experience_details'>
                                    <BsFillPatchCheckFill className="experience_details-icon" />
                                    <div>
-                                        <h4>Xamp</h4>
+                                        <h4>JavaScript (ES6)</h4>
                                         <small className='text_light'>Experience</small>
                                    </div>
                               </article>
                               <article className='experience_details'>
                                    <BsFillPatchCheckFill className="experience_details-icon" />
                                    <div>
-                                        <h4>Xamp</h4>
+                                        <h4>SASS</h4>
                                         <small className='text_light'>Experience</small>
                                    </div>
                               </article>
                               <article className='experience_details'>
                                    <BsFillPatchCheckFill className="experience_details-icon" />
                                    <div>
-                                        <h4>Xamp</h4>
+                                        <h4> Bootstrap, Ant Design</h4>
                                         <small className='text_light'>Experience</small>
                                    </div>
                               </article>
                               <article className='experience_details'>
                                    <BsFillPatchCheckFill className="experience_details-icon" />
                                    <div>
-                                        <h4>Xamp</h4>
+                                        <h4>ReactJS, Redux, Redux-Thunk</h4>
                                         <small className='text_light'>Experience</small>
                                    </div>
                               </article>
                               <article className='experience_details'>
                                    <BsFillPatchCheckFill className="experience_details-icon" />
                                    <div>
-                                        <h4>Xamp</h4>
+                                        <h4>Axios, Git</h4>
                                         <small className='text_light'>Experience</small>
                                    </div>
                               </article>
                               <article className='experience_details'>
                                    <BsFillPatchCheckFill className="experience_details-icon" />
                                    <div>
-                                        <h4>Xamp</h4>
-                                        <small className='text_light'>Experience</small>
-                                   </div>
-                              </article>
-                         </div>
-                    </div>
-                    <div className="experience_be">
-                         <h3>Backend Development</h3>
-                         <div className="experience_content">
-                              <article className='experience_details'>
-                                   <BsFillPatchCheckFill className="experience_details-icon" />
-                                   <div>
-                                        <h4>Xamp</h4>
-                                        <small className='text_light'>Experience</small>
-                                   </div>
-                              </article>
-                              <article className='experience_details'>
-                                   <BsFillPatchCheckFill className="experience_details-icon" />
-                                   <div>
-                                        <h4>Xamp</h4>
-                                        <small className='text_light'>Experience</small>
-                                   </div>
-                              </article>
-                              <article className='experience_details'>
-                                   <BsFillPatchCheckFill className="experience_details-icon" />
-                                   <div>
-                                        <h4>Xamp</h4>
-                                        <small className='text_light'>Experience</small>
-                                   </div>
-                              </article>
-                              <article className='experience_details'>
-                                   <BsFillPatchCheckFill className="experience_details-icon" />
-                                   <div>
-                                        <h4>Xamp</h4>
-                                        <small className='text_light'>Experience</small>
-                                   </div>
-                              </article>
-                              <article className='experience_details'>
-                                   <BsFillPatchCheckFill className="experience_details-icon" />
-                                   <div>
-                                        <h4>Xamp</h4>
-                                        <small className='text_light'>Experience</small>
-                                   </div>
-                              </article>
-                              <article className='experience_details'>
-                                   <BsFillPatchCheckFill className="experience_details-icon" />
-                                   <div>
-                                        <h4>Xamp</h4>
-                                        <small className='text_light'>Experience</small>
-                                   </div>
-                              </article>
-                              <article className='experience_details'>
-                                   <BsFillPatchCheckFill className="experience_details-icon" />
-                                   <div>
-                                        <h4>C++</h4>
-                                        <small className='text_light'>Experience</small>
-                                   </div>
-                              </article>
-                              <article className='experience_details'>
-                                   <BsFillPatchCheckFill className="experience_details-icon" />
-                                   <div>
-                                        <h4>GIT</h4>
+                                        <h4>Adobe Photoshop , Figma</h4>
                                         <small className='text_light'>Experience</small>
                                    </div>
                               </article>

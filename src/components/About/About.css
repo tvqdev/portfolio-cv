@@ -16,13 +16,22 @@
 .about_me-img {
      border-radius: 2rem;
      overflow: hidden;
-     transform: rotate(10deg);
-     transition: var(--transition) ;
+     transition: var(--transition)  ;
+     animation: pulse 5s ease infinite alternate;
 }
 
-.about_me-img:hover {
-     transform: rotate(0);
+@keyframes pulse {
+     0% {
+          transform: rotate(10deg);
+        }
+        100% {
+     transform: rotate(0deg);
+          
+        }
 }
+/* .about_me-img:hover {
+     transform: rotate(0);
+} */
 
 .about_cards {
      display: grid;

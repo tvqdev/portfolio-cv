@@ -3,7 +3,7 @@ import './Portfolio.css'
 import IMG1 from '../../assets/img/portfolio1.jpg'
 import IMG2 from '../../assets/img/portfolio2.jpg'
 import IMG3 from '../../assets/img/portfolio3.jpg'
-import IMG4 from '../../assets/img/portfolio4.jpg'
+// import IMG4 from '../../assets/img/portfolio4.jpg'
 import IMG5 from '../../assets/img/portfolio5.png'
 import IMG6 from '../../assets/img/portfolio6.jpg'
 
@@ -12,42 +12,42 @@ const data = [
      {
           id: 1,
           image: IMG1,
-          title: 'Lorem ipsum dolor sit amet.',
+          title: 'Landing page sarmas.',
           github: 'portfolio-cv-three.vercel.app',
-          demo: 'portfolio-cv-three.vercel.app'
+          demo: 'https://tvqdev.github.io/sarmas/'
      },
      {
           id: 1,
           image: IMG1,
-          title: 'Lorem ipsum dolor sit amet.',
+          title: 'Landing page Dinner.',
           github: 'portfolio-cv-three.vercel.app',
-          demo: 'portfolio-cv-three.vercel.app'
+          demo: 'https://tvqdev.github.io/Dinner/'
      },
      {
           id: 2,
           image: IMG2,
-          title: 'Lorem ipsum dolor sit amet.',
+          title: 'Landing page Foodieland.',
           github: 'portfolio-cv-three.vercel.app',
-          demo: 'portfolio-cv-three.vercel.app'
+          demo: 'https://tvqdev.github.io/Foodieland/'
      },
      {
           id: 4,
           image: IMG3,
-          title: 'Lorem ipsum dolor sit amet.',
+          title: 'RealEstateLandingPage.',
           github: 'portfolio-cv-three.vercel.app',
-          demo: 'portfolio-cv-three.vercel.app'
+          demo: 'https://tvqdev.github.io/RealEstateLandingPage/'
      },
      {
           id: 5,
           image: IMG5,
-          title: 'Lorem ipsum dolor sit amet.',
+          title: 'Movie Reactjs.',
           github: 'portfolio-cv-three.vercel.app',
-          demo: 'portfolio-cv-three.vercel.app'
+          demo: 'https://webmovieg4.vercel.app/'
      },
      {
           id: 6,
           image: IMG6,
-          title: 'Lorem ipsum dolor sit amet.',
+          title: 'Portfolio CV.',
           github: 'portfolio-cv-three.vercel.app',
           demo: 'portfolio-cv-three.vercel.app'
      },
@@ -66,9 +66,8 @@ const Portfolio = () => {
                               </div>
                               <h3>{title}</h3>
                               <div className="portfolio_item-cta">
-                                   <a href={github} className='btn' target='_blank'>Github</a>
-
-                                   <a href={demo} className='btn btn-primary' target='_blank'>Live Demo</a>
+                                   <a href={github} className='btn' target='_blank' rel="noopener noreferrer">Github</a>
+                                   <a href={demo} className='btn btn-primary' target='_blank' rel="noopener noreferrer">Live Demo</a>
                               </div>
                          </article>
                     })}

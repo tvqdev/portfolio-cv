@@ -1,6 +1,6 @@
 import React from 'react';
 import './Footer.css'
-import { FaFacebookF, FaInstagram, FaYoutube } from 'react-icons/fa'
+// import { FaFacebookF, FaInstagram, FaYoutube } from 'react-icons/fa'
 const Footer = () => {
      return (
           <footer>
@@ -17,10 +17,10 @@ const Footer = () => {
                     <a href="https://github.com/"><FaFacebookF /></a>
                     <a href="https://github.com/"><FaInstagram /></a>
                     <a href="https://github.com/"><FaYoutube /></a>
-               </div> */}
+               </div>
                <div className="footer_copy">
                     <small>&copy; TVQ Tutorials. All rights reserved</small>
-               </div>
+               </div> */}
           </footer>
      );
 };

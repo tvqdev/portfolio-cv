@@ -35,13 +35,13 @@ footer a {
      display: flex;
      border-color: var(--color-bg);
 }
-.footer_copy {
-     /* margin-bottom: 1rem; */
+/* .footer_copy {
+     margin-bottom: 1rem;
      color: var(--color-bg);
-}
+} */
 /* RESPON */
 
-@media screen and (max-width: 600px) {
+/* @media screen and (max-width: 600px) {
      .link {
           flex-direction: column;
           gap: 1.5rem;
@@ -49,4 +49,4 @@ footer a {
      .footer_social  {
           margin-bottom: 2.6rem;
      }
-}
+} */
