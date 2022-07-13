@@ -14,7 +14,7 @@ import { useEffect } from 'react';
 function App() {
   useEffect(() => {
     const sr = ScrollReveal({
-      origin: "top",
+      origin: "bottom",
       distance: "80px",
       duration: 2000,
       reset: true,
@@ -22,16 +22,11 @@ function App() {
     sr.reveal(
       `
       header,
+      nav,
       #about,
       #experience,
-      #portfolio,
-      #contact
-      `,
-      {
-        opacity: 0,
-        interval: 300,
-        delay: 500
-      }
+      #portfolio
+      `
     )
 
   })
